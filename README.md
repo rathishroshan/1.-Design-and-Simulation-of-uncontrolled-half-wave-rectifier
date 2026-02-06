@@ -41,7 +41,8 @@ shown below
 by going to Simulation ⇒ Start
 <img width="770" height="308" alt="image" src="https://github.com/user-attachments/assets/20842380-f81a-4c17-b9bf-9dbd037778bb" />
 
-15.	Double click on scope and observe the graphs.
+15.	Double click on scope and observe the graphs.<img width="1920" height="1080" alt="Screenshot 2026-02-06 114220" src="https://github.com/user-attachments/assets/77aacc0e-142f-4c48-ac28-2054632d1c48" />
+
 16.	Right click on each graph and select the axes properties and label each graph.
 17.	Save the file. 
 18.	Analyze and record your inference.
@@ -52,10 +53,13 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
+<img width="1920" height="1080" alt="Screenshot 2026-02-06 113638" src="https://github.com/user-attachments/assets/91292894-4c41-4f1f-871e-72f26765865c" />
 
 ## Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cca06dd6-216b-4a3a-858b-8522d59b65b5" />
 
 ## Result
+thus , Design and simulation of uncontrolled half wave rectifier is verified
 
 
 
